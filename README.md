@@ -1,12 +1,10 @@
 # StickerSmash - Create Custom Stickers 🎨
 
-![Project Banner](./assets/banner-placeholder.png)
-
 ## 📱 Overview
 
 StickerSmash is a cross-platform application built with Expo that lets you create custom stickers by adding fun emoji and stickers to your photos. Upload an image, customize it with our collection of stickers, and save your creation to share with friends!
 
-![App Demo](./assets/demo-placeholder.gif)
+<img width="333" alt="Screenshot 2024-11-18 at 3 53 32 PM" src="https://github.com/user-attachments/assets/bdff195d-6589-4dfa-802b-47cc41ab0575">
 
 ## ✨ Features
 
@@ -18,14 +16,6 @@ StickerSmash is a cross-platform application built with Expo that lets you creat
 - 🎨 Collection of emoji stickers to choose from
 - ↩️ Undo/Redo functionality
 - 📏 Resize and rotate stickers
-
-<!-- ## 📸 Screenshots
-
-<div align="center">
-  <img src="./assets/screenshot1-placeholder.png" alt="Home Screen" width="200"/>
-  <img src="./assets/screenshot2-placeholder.png" alt="Sticker Editor" width="200"/>
-  <img src="./assets/screenshot3-placeholder.png" alt="Saved Sticker" width="200"/>
-</div> -->
 
 ## 🛠️ Technologies Used
 
